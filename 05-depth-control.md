@@ -140,4 +140,4 @@ You now have:
 4. **Interpretation Rules** — confidence, freshness, absence-as-signal, and conflict handling
 5. **Depth Control** — when to apply frameworks lightly versus fully
 
-To design your agents, use **Agent System Design**. To understand where your system is fragile, use **Agent Drift Prevention**. To challenge your assumptions, try **Agent Blind Spots**.
+To design your agents, use **Agent System Design**. To understand where your system is fragile, use **Agent Drift Prevention**. To challenge your assumptions, try **Agent Edge Cases**.

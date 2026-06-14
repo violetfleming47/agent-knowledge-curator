@@ -52,3 +52,18 @@ Design when agents apply frameworks lightly versus fully. A nurse taking vitals 
 ## How to Use This
 
 Start with Knowledge Mapping to identify what needs capturing. Then use Reasoning Frameworks and Data Reading Guides to structure it — they handle different types of knowledge (domain interpretation vs system interaction) that change for different reasons and at different rates. Layer on Interpretation Rules and Depth Control to refine how agents apply what they've been given.
+
+---
+
+## About
+
+Created by [Violet Fleming](https://github.com/violetfleming47). These tools are grounded in a design philosophy developed across production multi-agent systems — the same thinking behind [Orion](https://github.com/violetfleming47).
+
+Part of a suite of open-source agent design tools:
+- [Agent System Design](https://github.com/violetfleming47/agent-system-design) — design and decompose agent systems
+- **Agent Knowledge Curator** — capture institutional knowledge
+- [Agent Drift Prevention](https://github.com/violetfleming47/agent-drift-prevention) — prevent silent degradation
+- [Agent Edge Cases](https://github.com/violetfleming47/agent-edge-cases) — failure modes you haven't considered
+- [Agent System Review](https://github.com/violetfleming47/agent-system-review) — architectural review of existing systems
+
+Licensed under [CC BY-NC 4.0](LICENSE).

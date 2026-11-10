@@ -1,3 +1,8 @@
+---
+name: agent-knowledge-reasoning-frameworks
+description: Encode how your best people think about data as reasoning frameworks — factors, signal weights, ambiguity handling, what good looks like — rather than if-then rules. Use when writing the frameworks an agent reasons with.
+---
+
 # Reasoning Frameworks
 
 > Encode how your best people think about data — not what they decide, but how they arrive at decisions.

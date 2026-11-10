@@ -1,3 +1,8 @@
+---
+name: agent-knowledge-data-reading-guides
+description: Write data reading guides that teach agents how to read your actual systems — field trust, empty vs missing, pagination, identifier resolution, freshness — to prevent confident misreading of real data. Use when connecting an agent to a CRM, database or API.
+---
+
 # Data Reading Guides
 
 > Teach agents how to interact with your actual systems — how to query, what to trust, what empty means versus missing.

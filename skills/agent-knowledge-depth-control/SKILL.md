@@ -1,3 +1,8 @@
+---
+name: agent-knowledge-depth-control
+description: Design when agents apply frameworks lightly versus fully (factual, monitoring and diagnostic modes) so simple questions get simple answers. Use when an agent over-analyses or answers every query with a full assessment.
+---
+
 # Depth Control
 
 > When to apply a framework lightly versus fully — because a nurse taking vitals and a diagnostician running differentials use the same textbook at different depths.

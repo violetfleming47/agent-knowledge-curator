@@ -1,3 +1,8 @@
+---
+name: agent-knowledge-interpretation-rules
+description: Define interpretation rules for confidence, freshness, absence-as-signal and conflicting data so agents weight evidence correctly. Use when agent output treats every data point as equally certain.
+---
+
 # Interpretation Rules
 
 > Define the rules for confidence, freshness, absence-as-signal, and when to doubt — so agents interpret data the way your best operators do.

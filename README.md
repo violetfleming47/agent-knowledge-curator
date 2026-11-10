@@ -55,9 +55,45 @@ Start with Knowledge Mapping to identify what needs capturing. Then use Reasonin
 
 ---
 
+## Install
+
+### Claude Code (as a plugin)
+
+```
+/plugin marketplace add violetfleming47/agent-knowledge-curator
+/plugin install agent-knowledge-curator@agent-knowledge-curator
+```
+
+### Claude Code (manual copy)
+
+```bash
+git clone https://github.com/violetfleming47/agent-knowledge-curator.git
+cp -R agent-knowledge-curator/skills/* ~/.claude/skills/
+```
+
+### Claude apps (claude.ai, Desktop)
+
+Download a skill's `.zip` from the [latest release](https://github.com/violetfleming47/agent-knowledge-curator/releases/latest) and upload it under Skills in Claude's settings.
+
+### Other harnesses (Cursor, Windsurf, custom agents)
+
+Each `SKILL.md` is plain markdown. Load it as a rule or system prompt, and keep its `references/` folder alongside it.
+
+### What's included
+
+Every skill is a self-contained folder under `skills/`, with a `SKILL.md` and the reference documents it draws on:
+
+- `agent-knowledge-mapping`
+- `agent-knowledge-reasoning-frameworks`
+- `agent-knowledge-data-reading-guides`
+- `agent-knowledge-interpretation-rules`
+- `agent-knowledge-depth-control`
+
+---
+
 ## About
 
-Created by [Violet Fleming](https://github.com/violetfleming47). These tools are grounded in a design philosophy developed across production multi-agent systems — the same thinking behind [Orion](https://github.com/violetfleming47).
+Created by [Violet Fleming](https://github.com/violetfleming47). These tools are grounded in a design philosophy developed across production multi-agent systems.
 
 Part of a suite of open-source agent design tools:
 - [Agent System Design](https://github.com/violetfleming47/agent-system-design) — design and decompose agent systems

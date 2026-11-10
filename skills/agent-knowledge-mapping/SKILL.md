@@ -1,3 +1,8 @@
+---
+name: agent-knowledge-mapping
+description: Identify the institutional knowledge your agents need that isn't in the data — tribal, process, interpretive and semantic knowledge — and map which agents must have it and which must not. Use when starting to encode expert judgment into an agent system.
+---
+
 # Knowledge Mapping
 
 > Identify what your organisation knows that isn't in the data — the tribal knowledge, implicit processes, and accumulated expertise your agents need to reason properly.
